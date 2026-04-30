@@ -1,6 +1,19 @@
 **READ ME:** Day In The Life at Smith College  
 By Fiona Bloom, Kendra Graf, and Jackie Wiechmann
 
+A multi-path Python simulation game where player decisions shape unique daily outcomes at Smith College.
+
+▶️ How to Run (Quick Start)
+Download this repository (click "Code" → "Download ZIP")
+Open the folder in Thonny (or any Python IDE)
+Run MAIN.py
+
+💡 Features
+Branching storylines with multiple possible paths
+Randomized events and decision-based outcomes
+State tracking across modules
+Visual collage generated at the end based on your choices
+
 **Files required:**
 
 1. MAIN:   
